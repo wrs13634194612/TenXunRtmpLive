@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="开始预览"
+        android:id="@+id/item1_id" />
+
+    <item
+        android:title="开始推流"
+        android:id="@+id/item2_id" />
+
+    <item
+        android:id="@+id/item3_id"
+        android:title="结束预览" />
+    <item
+        android:id="@+id/item4_id"
+        android:title="结束推流" />
+
+
+</menu>
